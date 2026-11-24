@@ -6,8 +6,8 @@ It opens as a quiet, editorial product page for a bedside sleep device called Hu
 
 ## Two editions
 
-- **English** — [index.html](index.html) · [live](https://mike233isme.github.io/)
-- **中文** — [zh.html](zh.html) · [live](https://mike233isme.github.io/zh.html)
+- **English** — [index.html](index.html) · [live](https://mike233-ai.github.io/)
+- **中文** — [zh.html](zh.html) · [live](https://mike233-ai.github.io/zh.html)
 
 Both pages share the same artwork, CSS and scroll engine. Use the small **中文 / EN** pill in the header to switch. Everything is local; no network connection is needed.
 
